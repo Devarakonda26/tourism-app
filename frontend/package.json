@@ -1,0 +1,12 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Tourism App",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "keywords": [],
+  "author": "Praveen",
+  "license": "ISC"
+}
