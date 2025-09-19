@@ -16,4 +16,4 @@ app.get("/test", (req, res) => {
   res.send("✅ Server is working!");
 });
 
-app.listen(5000, () => console.log("🚀 Server running on http://localhost:5000"));
+app.listen(5000, () => console.log("🚀 Server running on http://localhost:5001"));
